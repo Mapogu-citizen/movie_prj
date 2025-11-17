@@ -11,4 +11,10 @@ public class Reservation {
             return false;
         }
     }
+
+    public class Reservation {
+        public void reserve1842() {
+            System.out.println("예매 완료!_이민정");
+        }
+    }
 }
